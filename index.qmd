@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+My name is Nowell Phelps and I am a first year PhD student in the Department of Biostatistics at Johns Hopkins University. This website contains some information about my background and an example data analysis.
+
+![](me.jpg){width="400"}

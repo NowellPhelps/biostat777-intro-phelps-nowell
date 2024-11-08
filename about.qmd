@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+I am a first year PhD student in the Department of Biostatistics at Johns Hopkins University. I am broadly interested in using data-driven modelling to inform effective and equitable policymaking and interventions, and am particularly interested in applications in international health.
+
+I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant in the Department of Epidemiology and Biostatistics at Imperial College London. While there I primarily worked on modelling trends in risk factors for noncommunicable diseases, through harmonising health survey data with a hierarchical Bayesian model. I also spent four months in Kigali, Rwanda, as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
+
+Outside of work I enjoy biking, climbing, reading, and travelling. Here is a photo of some train tracks.
+
+![](track.png)
